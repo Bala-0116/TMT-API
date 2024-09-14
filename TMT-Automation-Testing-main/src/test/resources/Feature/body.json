@@ -1,0 +1,49 @@
+{
+  "NewProduct":[
+    {
+      "title": "test product",
+      "price": "13.5",
+      "description": "lorem ipsum set",
+      "image": "https://i.pravatar.cc",
+      "category": "electronic"
+    }
+  ],
+
+  "UpdateProduct": [
+    {
+      "title": "test product",
+      "price": "13.5",
+      "description": "lorem ipsum set",
+      "image": "https://i.pravatar.cc",
+      "category": "electronic"
+    }
+  ],
+  "NewCart": [
+    {
+      "userId":"5",
+      "date":"2020-02-03",
+      "products":[
+        {
+          "productId":"5",
+          "quantity":"1"
+        },
+        {
+          "productId":"1",
+          "quantity":"5"
+        }
+      ]
+    }
+  ],
+  "UpdateCart": [
+    {
+      "userId":"3",
+      "date":"2019-12-10",
+      "products":[
+        {
+          "productId":"1",
+          "quantity":"3"
+        }
+      ]
+    }
+  ]
+}

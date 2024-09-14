@@ -1,0 +1,340 @@
+[INFO ] 2024-09-01 19:10:00.274 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:10:22.211 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:10:44.112 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:10:49.381 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:11:00.416 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:11:03.007 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:11:46.756 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_sell_their_tickets_using_BookMyShow
+[INFO ] 2024-09-01 19:11:47.314 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 19:11:48.855 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:12:08.753 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:12:32.663 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:13:07.571 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:13:26.538 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:13:48.667 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:13:54.070 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:14:05.007 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:14:08.402 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:14:47.461 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_sell_their_tickets_using_BookMyShow
+[INFO ] 2024-09-01 19:14:48.014 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 19:14:49.603 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:15:08.965 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:15:31.251 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:15:36.568 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:15:47.528 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:15:50.987 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:16:13.273 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:16:43.152 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 19:16:44.713 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:17:04.225 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:17:43.602 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:17:43.715 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:17:45.731 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:17:49.663 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:18:12.620 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:18:40.610 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 19:18:42.603 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:19:01.375 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:19:38.482 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_to_Buy_new_tickets_in_TMT_platform
+[INFO ] 2024-09-01 19:19:39.047 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 19:36:01.003 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:36:08.631 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 19:36:10.677 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:36:30.136 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:36:41.429 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:37:00.502 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:37:41.473 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:37:41.624 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:37:42.336 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:37:45.082 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:38:08.860 [main] TMTEventDetailsSteps:99 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:38:37.306 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 19:38:39.010 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:38:58.036 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:39:31.548 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 19:46:25.656 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:46:43.987 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:47:24.443 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:47:24.569 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:47:25.953 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:47:30.248 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:47:53.914 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:48:22.906 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 19:48:26.645 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:48:45.543 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:49:20.710 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 19:53:22.010 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:53:41.147 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:54:19.215 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:54:19.410 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:54:20.331 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:54:24.316 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:54:47.497 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 19:55:16.243 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 19:55:19.121 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 19:55:38.062 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 19:56:13.788 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:00:01.059 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:00:24.156 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:00:36.256 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:01:02.600 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:01:22.202 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:01:34.391 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:01:36.126 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:01:54.674 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:02:05.968 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:05:09.593 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:05:28.844 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:05:41.054 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:05:42.509 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:06:00.799 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:06:12.030 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:09:19.961 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:09:38.782 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:09:51.148 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:09:52.996 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:10:11.697 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:10:23.354 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:13:48.647 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:14:08.327 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:14:20.625 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:14:22.052 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:14:23.076 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:14:53.019 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:17:20.234 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:17:20.385 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:18:00.653 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:18:05.923 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:18:16.927 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:18:19.686 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:18:59.520 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_sell_their_tickets_using_BookMyShow
+[INFO ] 2024-09-01 20:19:00.127 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:19:01.562 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:19:31.115 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:19:53.042 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:19:58.428 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:20:10.249 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:20:13.293 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:20:33.670 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:21:01.647 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:21:03.080 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:24:19.869 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_to_sell_their_tickets_using_Paytminsider
+[INFO ] 2024-09-01 20:24:20.227 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:24:21.843 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:24:41.208 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:25:17.592 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:42:22.025 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:42:22.300 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:43:04.806 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:43:10.152 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:43:21.153 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:43:24.701 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:44:03.409 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_sell_their_tickets_using_BookMyShow
+[INFO ] 2024-09-01 20:44:03.799 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:44:05.575 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:44:26.405 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:44:49.691 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:44:55.003 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:45:06.182 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:45:08.898 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:45:31.777 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:45:59.570 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:46:01.028 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:46:22.113 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:47:01.593 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:47:01.733 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:47:03.339 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:47:06.473 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-01 20:47:44.648 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_to_sell_their_tickets_using_Paytminsider
+[INFO ] 2024-09-01 20:47:44.987 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-01 20:47:46.473 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-01 20:48:07.604 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-01 20:48:43.627 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-02 10:13:45.954 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-02 10:14:05.273 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-02 10:14:28.002 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:14:33.254 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:14:44.407 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:14:47.021 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:15:25.445 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_sell_their_tickets_using_BookMyShow
+[INFO ] 2024-09-02 10:15:26.676 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-02 10:15:28.116 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-02 10:15:46.808 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-02 10:16:08.266 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:16:13.548 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:16:24.462 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:16:27.650 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:16:50.266 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:17:17.824 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-02 10:17:19.279 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-02 10:17:38.840 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-02 10:18:16.375 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:18:16.548 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:18:17.308 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:18:19.887 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:18:42.288 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-02 10:19:09.760 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-02 10:19:11.035 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-02 10:19:29.948 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-02 10:20:02.753 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-03 10:18:14.626 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-03 10:18:20.180 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-03 10:18:41.708 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:18:46.919 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:18:57.613 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:19:00.456 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:19:38.731 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_sell_their_tickets_using_BookMyShow
+[INFO ] 2024-09-03 10:19:39.294 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-03 10:19:41.661 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-03 10:19:46.095 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-03 10:20:07.739 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:20:12.991 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:20:23.750 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:20:26.568 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:20:48.825 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:21:15.596 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-03 10:21:17.026 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-03 10:21:21.703 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-03 10:21:58.887 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:21:59.079 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:21:59.764 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:22:02.777 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:22:25.834 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:22:52.781 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-03 10:22:54.571 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-03 10:22:58.883 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-03 10:23:31.199 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-03 10:26:43.073 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-03 10:26:47.597 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-03 10:27:19.364 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_sell_their_tickets_using_BookMyShow
+[INFO ] 2024-09-03 10:27:20.144 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-03 10:27:22.541 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-03 10:27:27.556 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-03 10:27:53.215 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:27:58.563 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:28:10.697 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:28:17.156 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:28:40.800 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:29:07.472 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-03 10:29:09.109 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-03 10:29:14.510 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-03 10:29:52.437 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:29:52.581 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:29:53.341 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:29:56.252 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:30:19.861 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-03 10:30:50.195 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-03 10:30:51.642 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-03 10:31:12.988 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-03 10:31:50.188 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 10:37:30.556 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 10:39:12.558 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 10:39:32.810 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 10:39:56.964 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:40:02.325 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:40:13.731 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:40:16.695 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:40:41.067 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:41:11.285 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 10:41:14.079 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 10:41:33.751 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 10:42:11.797 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:42:11.908 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:42:13.148 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:42:17.347 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:42:40.393 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:43:09.674 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 10:43:11.810 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 10:43:30.483 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 10:44:06.349 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 10:45:41.993 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 10:46:01.337 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 10:46:24.727 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:46:30.003 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:46:40.967 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:46:45.601 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:47:10.363 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:47:39.465 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 10:47:41.244 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 10:48:03.434 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 10:48:42.280 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:48:42.587 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:48:43.360 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:48:46.423 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:49:09.138 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:49:36.909 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 10:49:38.586 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 10:49:57.210 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 10:50:31.542 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 10:52:18.911 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 10:52:38.750 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 10:53:01.293 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:53:06.757 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:53:17.824 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:53:20.783 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:53:44.030 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:54:12.904 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 10:54:15.062 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 10:54:34.823 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 10:55:12.900 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:55:13.078 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:55:13.914 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:55:16.864 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 10:55:55.579 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_to_sell_their_tickets_using_Paytminsider
+[INFO ] 2024-09-04 10:55:56.056 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 10:55:57.583 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 10:55:58.034 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 10:59:37.624 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 10:59:56.140 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 11:00:23.575 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:00:28.891 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:00:40.152 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:00:43.533 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:01:06.127 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:01:33.923 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 11:01:38.219 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 11:01:57.007 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 11:02:40.793 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:02:41.036 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:02:42.135 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:02:45.250 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:03:07.731 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:03:23.255 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_to_sell_their_tickets_using_Paytminsider
+[INFO ] 2024-09-04 11:03:26.728 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 11:03:28.285 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 11:03:50.938 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 11:04:01.343 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 11:04:56.777 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 11:05:17.160 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 11:05:44.564 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:05:49.849 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:06:00.809 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:06:03.862 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:06:26.885 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:07:00.924 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 11:07:02.788 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 11:07:22.438 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 11:08:05.332 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:08:05.611 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:08:06.483 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:08:08.783 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:08:30.761 [main] TMTEventDetailsSteps:98 - Click on next page validation is Pass
+[INFO ] 2024-09-04 11:09:04.953 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-04 11:09:06.839 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-04 11:09:25.353 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-04 11:10:03.024 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-12 22:13:08.914 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-12 22:13:09.336 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-12 22:13:30.466 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_to_sell_their_tickets_using_Paytminsider
+[INFO ] 2024-09-12 22:13:30.897 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-12 22:13:33.287 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-12 22:13:33.528 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-12 22:13:54.265 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_to_sell_their_tickets_using_Paytminsider
+[INFO ] 2024-09-12 22:13:54.515 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-12 22:13:55.848 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-12 22:13:56.419 [main] ApplicationHooks:133 - Launching url: https://stage-tmt.azurewebsites.net/
+[INFO ] 2024-09-12 22:14:16.895 [main] ApplicationHooks:151 - Scenario Failed: To_verify_user_able_to_Buy_new_tickets_in_TMT_platform
+[INFO ] 2024-09-12 22:14:17.216 [main] ApplicationHooks:140 - Closing the browser
+[INFO ] 2024-09-13 13:02:39.916 [main] ApplicationHooks:124 - Browser initated and browser type: chrome
+[INFO ] 2024-09-13 13:02:40.630 [main] ApplicationHooks:151 - Scenario Failed: Adding_a_new_product
+[INFO ] 2024-09-13 13:02:40.802 [main] ApplicationHooks:140 - Closing the browser

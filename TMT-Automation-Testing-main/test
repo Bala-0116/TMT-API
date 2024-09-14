@@ -1,0 +1,21 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch Selva_Framework
+# Your branch is up to date with 'origin/Selva_Framework'.
+#
+# Changes to be committed:
+#	modified:   logs/logs.log
+#	modified:   pom.xml
+#	modified:   src/test/java/AppHooks/ApplicationHooks.java
+#	deleted:    src/test/java/testrunners/MyTestRunner.java
+#	new file:   src/test/java/testrunners/RunCucumberTest.java
+#	modified:   src/test/resources/config/config.properties
+#	modified:   test-output-thread/report.js
+#	new file:   test-output-thread/vis-timeline-graph2d.min.css
+#	new file:   test-output-thread/vis-timeline-graph2d.min.js
+#	new file:   test-output-thread/vis-timeline-graph2d.override.css
+#	modified:   test-report/PdfReport/ExtentPdf.pdf
+#	new file:   testng.xml
+#
